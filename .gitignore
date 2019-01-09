@@ -31,4 +31,4 @@
 *.out
 *.app
 #
-build/default/path_finding
+/build/
