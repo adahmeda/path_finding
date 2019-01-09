@@ -1,3 +1,0 @@
-/home/aegan/eclipse-workspace/path_finding/build/CMakeFiles/rebuild_cache.dir
-/home/aegan/eclipse-workspace/path_finding/build/CMakeFiles/path_finding.dir
-/home/aegan/eclipse-workspace/path_finding/build/CMakeFiles/edit_cache.dir
